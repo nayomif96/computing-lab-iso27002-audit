@@ -27,4 +27,4 @@ This audit aims to:
 - Key Issues: Insufficient internal access controls in labs, unsecured IT equipment vulnerable to tampering or theft, and poor cable management causing safety and operational risks.
   
 📎 **Contents**
-- Campus_audit.pdf : Full audit report including detailed observations, photos, checklists, and gap analysis
+- audit_report.pdf : Full audit report including detailed observations, photos, checklists, and gap analysis
