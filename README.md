@@ -24,10 +24,7 @@ This audit aims to:
 📊 **Summary of Findings**
 - Overall Compliance: 60%
 - Identified Gaps: 40%
-- Key Issues:
-      - Insufficient internal access controls within labs.
-      - IT equipment left unsecured and vulnerable to tampering or theft.
-      - Poor cable management leading to safety and operational risks.
-
+- Key Issues: Insufficient internal access controls in labs, unsecured IT equipment vulnerable to tampering or theft, and poor cable management causing safety and operational risks.
+  
 📎 **Contents**
 - Campus_audit.pdf : Full audit report including detailed observations, photos, checklists, and gap analysis
