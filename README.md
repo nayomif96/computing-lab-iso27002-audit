@@ -1,7 +1,7 @@
-🛡️ **Security Audit Report – University Campus Building**
+🛡️ **Security Audit Report – Academic Building**
 
 📄 **Overview**
-This repository contains the Security Audit Report completed as part of the Audit and Security module for the MSc Cyber Security program . The audit evaluates physical security and equipment security within the Building, following the guidelines of ISO/IEC 27002:2022 Section 7.
+This repository contains the Security Audit Report completed as part of the Audit and Security module for the MSc Cyber Security program . The audit evaluates physical security and equipment security within a Building, following the guidelines of ISO/IEC 27002:2022 Section 7.
 
 🎯 **Objectives**
 This audit aims to:
@@ -10,7 +10,7 @@ This audit aims to:
 - Identify discrepancies between current practices and ISO/IEC 27002:2022 Section 7 requirements, and provide practical recommendations to address these gaps.
 
 🔎 **Audit Scope**
-- Location: King William Building, University of Greenwich.
+- Location: Academic Building, London.
 - Areas Assessed: Computing laboratories accessible to students.
 - Standards Referenced: ISO/IEC 27002:2022 Section 7 – Physical and Environmental Security.
 - Exclusions: Staff-only areas and backend network/server infrastructure.
